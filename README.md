@@ -16,8 +16,7 @@ La pàgina està publicada mitjançant **GitHub Pages**.
 ---
 
 ## 🌐 **Enllaç al projecte (GitHub Pages)**  
-👉 *Afegeix aquí el teu enllaç un cop el tinguis pujat:*  
-`https://<el-teu-usuari>.github.io/<nom-del-repositori>/`
+https://martieug.github.io/Marti_Castellnou_Pokeapi/
 
 ---
 
